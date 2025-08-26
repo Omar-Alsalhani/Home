@@ -2,7 +2,7 @@
 
 ## 🚀 Software Engineer | Team Leader | Full Stack .NET Developer
 
-Passionate software engineer with 6+ years of experience building robust web and desktop applications. I specialize in leading development teams and architecting scalable solutions using C# and .NET technologies. Currently focused on healthcare systems and enterprise applications that serve thousands of users.
+Passionate software engineer with 6+ years of experience building robust web and desktop applications. I specialize in leading development teams and architecting scalable solutions using C# and .NET technologies. Currently focused on enterprise applications and business systems that serve thousands of users across various industries.
 
 📍 **Location:** Cairo, Egypt  
 💼 **Current Role:** Team Leader & Full Stack .NET Developer  
@@ -40,7 +40,7 @@ Passionate software engineer with 6+ years of experience building robust web and
 ## 💼 Professional Experience
 
 ### 🏥 **MediConsult** - Team Leader & Full Stack .NET Developer
-*Healthcare Technology Solutions*
+*Enterprise Technology Solutions*
 
 ### 🏢 **Khusm** - Team Leader & Full Stack .NET Developer
 *Enterprise Software Solutions*
@@ -57,17 +57,17 @@ Passionate software engineer with 6+ years of experience building robust web and
 ## 🎯 Key Projects
 
 ### 🏥 **MediConsult Internal Management System**
-- **Scale:** Managing 50K+ members with comprehensive healthcare services
+- **Scale:** Managing 50K+ members with comprehensive business services
 - **Tech Stack:** ASP.NET, Web API, MVC Architecture
-- **Impact:** Streamlined operations for large healthcare provider network
+- **Impact:** Streamlined operations for large enterprise provider network
 
 ### 🌐 **MediConsult Provider Portal**
-- **Purpose:** Healthcare provider management and service delivery
+- **Purpose:** Business provider management and service delivery
 - **Features:** Provider onboarding, service management, reporting
 
 ### 📱 **MediConsult Member Portal (PWA)**
 - **Technology:** Progressive Web App for mobile-like experience
-- **Goal:** Seamless member access to healthcare services
+- **Goal:** Seamless member access to business services
 - **Benefits:** Cross-platform compatibility, offline capabilities
 
 ### 🏢 **Khusm Internal System**
@@ -87,7 +87,6 @@ Passionate software engineer with 6+ years of experience building robust web and
 - ✅ **Project Management** - Agile methodologies and technical planning
 
 **Domain Expertise:**
-- 🏥 **Healthcare Systems** - Complex healthcare management platforms
 - 🏢 **Enterprise Applications** - Large-scale business solutions
 - 🏭 **ERP Systems** - Complete enterprise resource planning solutions
 - 📱 **Progressive Web Apps** - Modern mobile-first development
@@ -102,7 +101,7 @@ Passionate software engineer with 6+ years of experience building robust web and
 
 - Expanding expertise in modern .NET technologies and WebAssembly
 - Exploring cloud-native development patterns and microservices
-- Contributing to healthcare technology innovation
+- Contributing to enterprise technology innovation
 - Building comprehensive ERP systems and business intelligence solutions
 - Mentoring junior developers and sharing knowledge
 
